@@ -242,6 +242,10 @@ h6,
     color: var(--color-tertiary);
 }
 
+.color-quarternary {
+    color: var(--color-quarternary);
+}
+
 .color-faded {
     color: var(--gray-7);
 }
